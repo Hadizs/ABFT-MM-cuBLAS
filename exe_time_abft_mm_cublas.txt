@@ -1,0 +1,80 @@
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 1024 * 1024 * 1024 * 
+
+Multiplication Execution Time without checksum = 92.3292 ms
+Checksum calculation in CPU                    = 2.592 ms
+Checksum Calculation Execution Time in GPU     = 0.452544 ms
+Total Kernel Execution Time with checksum      = 92.7817 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 2048 * 2048 * 2048 * 
+
+Multiplication Execution Time without checksum = 96.6237 ms
+Checksum calculation in CPU                    = 27.26 ms
+Checksum Calculation Execution Time in GPU     = 0.531616 ms
+Total Kernel Execution Time with checksum      = 97.1553 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 3072 * 3072 * 3072 * 
+
+Multiplication Execution Time without checksum = 105.27 ms
+Checksum calculation in CPU                    = 63.138 ms
+Checksum Calculation Execution Time in GPU     = 0.657184 ms
+Total Kernel Execution Time with checksum      = 105.927 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 4096 * 4096 * 4096 * 
+
+Multiplication Execution Time without checksum = 122.066 ms
+Checksum calculation in CPU                    = 117.777 ms
+Checksum Calculation Execution Time in GPU     = 0.831008 ms
+Total Kernel Execution Time with checksum      = 122.897 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 5120 * 5120 * 5120 * 
+
+Multiplication Execution Time without checksum = 151.154 ms
+Checksum calculation in CPU                    = 184.929 ms
+Checksum Calculation Execution Time in GPU     = 1.05165 ms
+Total Kernel Execution Time with checksum      = 152.206 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 6144 * 6144 * 6144 * 
+
+Multiplication Execution Time without checksum = 183.36 ms
+Checksum calculation in CPU                    = 262.686 ms
+Checksum Calculation Execution Time in GPU     = 1.29968 ms
+Total Kernel Execution Time with checksum      = 184.66 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 7168 * 7168 * 7168 * 
+
+Multiplication Execution Time without checksum = 235.554 ms
+Checksum calculation in CPU                    = 370.185 ms
+Checksum Calculation Execution Time in GPU     = 1.62595 ms
+Total Kernel Execution Time with checksum      = 237.18 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 8192 * 8192 * 8192 * 
+
+Multiplication Execution Time without checksum = 306.014 ms
+Checksum calculation in CPU                    = 490.642 ms
+Checksum Calculation Execution Time in GPU     = 1.97808 ms
+Total Kernel Execution Time with checksum      = 307.992 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 9216 * 9216 * 9216 * 
+
+Multiplication Execution Time without checksum = 414.254 ms
+Checksum calculation in CPU                    = 614.902 ms
+Checksum Calculation Execution Time in GPU     = 2.41571 ms
+Total Kernel Execution Time with checksum      = 416.669 ms
+Writing this to a file.
+Writing this to a file 2.
+Execution Time for Matrix M * N * K = 10240 * 10240 * 10240 * 
+
+Multiplication Execution Time without checksum = 531.457 ms
+Checksum calculation in CPU                    = 754.194 ms
+Checksum Calculation Execution Time in GPU     = 2.87974 ms
+Total Kernel Execution Time with checksum      = 534.336 ms

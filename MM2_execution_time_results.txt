@@ -1,0 +1,30 @@
+1024
+MMUL_2 Execution completed. Elapsed Time = 94.6754
+done
+2048
+MMUL_2 Execution completed. Elapsed Time = 99.0154
+done
+3072
+MMUL_2 Execution completed. Elapsed Time = 105.686
+done
+4096
+MMUL_2 Execution completed. Elapsed Time = 120.818
+done
+5120
+MMUL_2 Execution completed. Elapsed Time = 149.482
+done
+6144
+MMUL_2 Execution completed. Elapsed Time = 184.02
+done
+7168
+MMUL_2 Execution completed. Elapsed Time = 241.544
+done
+8192
+MMUL_2 Execution completed. Elapsed Time = 314.865
+done
+9216
+MMUL_2 Execution completed. Elapsed Time = 423.02
+done
+10240
+MMUL_2 Execution completed. Elapsed Time = 557.284
+done

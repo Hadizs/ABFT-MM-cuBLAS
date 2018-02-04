@@ -1,0 +1,8 @@
+
+CFLAGS=--gpu-architecture sm_52 -L/usr/local/cuda/lib64 -lcudart -L/usr/local/cuda/lib64 -lcublas -g -O3
+
+all:
+	nvcc mmul_1.cu -o mmul_1 $(CFLAGS)
+	
+clean:
+	rm -f mmul_1
